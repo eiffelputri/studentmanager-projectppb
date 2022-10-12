@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/bluegelap"
+    tools:context=".HomeActivity">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="60dp"
+        android:layout_marginLeft="60dp"
+        android:layout_marginTop="200dp"
+        android:fontFamily="@font/poppins_bold"
+        android:text=" Student \nManager"
+        android:textColor="#FFFFFF"
+        android:textSize="64sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/homelogin"
+        android:layout_width="140dp"
+        android:layout_height="50dp"
+        android:layout_marginStart="60dp"
+        android:layout_marginLeft="60dp"
+        android:layout_marginTop="176dp"
+        android:background="@drawable/kotakputihkecil"
+        android:elevation="4dp"
+        android:fontFamily="@font/poppins_bold"
+        android:text="LOGIN"
+        android:textColor="#1F293B"
+        app:backgroundTint="#FFFFFF"
+        app:iconTint="#FFFFFF"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView" />
+
+    <Button
+        android:id="@+id/homesignup"
+        android:layout_width="140dp"
+        android:layout_height="50dp"
+        android:layout_marginStart="28dp"
+        android:layout_marginLeft="28dp"
+        android:layout_marginTop="176dp"
+        android:background="@drawable/kotakputihkecil"
+        android:elevation="4dp"
+        android:fontFamily="@font/poppins_bold"
+        android:text="SIGN UP"
+        android:textColor="#FFFFFF"
+        app:backgroundTint="#006C60"
+        app:iconTint="#FFFFFF"
+        app:layout_constraintStart_toEndOf="@+id/homelogin"
+        app:layout_constraintTop_toBottomOf="@+id/textView" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

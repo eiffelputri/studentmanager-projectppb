@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Asus/AndroidStudioProjects/LoginReg - Copy/app/src/main/res/layout/activity_login.xml" value="0.18432971014492755" />
+        <entry key="..\:/Users/Asus/AndroidStudioProjects/LoginReg/app/src/main/res/layout/activity_home.xml" value="0.21739130434782608" />
+        <entry key="..\:/Users/Asus/AndroidStudioProjects/LoginReg/app/src/main/res/layout/activity_login.xml" value="0.2" />
+        <entry key="..\:/Users/Asus/AndroidStudioProjects/LoginReg/app/src/main/res/layout/activity_profile.xml" value="0.21739130434782608" />
+        <entry key="..\:/Users/Asus/AndroidStudioProjects/LoginReg/app/src/main/res/layout/activity_signup.xml" value="0.21739130434782608" />
+        <entry key="..\:/Users/Asus/Downloads/Login-and-Register-Firebase-main/app/src/main/res/layout/activity_home.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Asus/Downloads/Login-and-Register-Firebase-main/app/src/main/res/layout/activity_login.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Asus/Downloads/Login-and-Register-Firebase-main/app/src/main/res/layout/activity_profile.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Asus/Downloads/Login-and-Register-Firebase-main/app/src/main/res/layout/activity_signup.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
